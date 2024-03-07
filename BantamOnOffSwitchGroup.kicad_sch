@@ -3,7 +3,13 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "9538e4ed-27e6-4c37-b989-9859dc0d49e8")
-	(paper "A4")
+	(paper "A")
+	(title_block
+		(title "Bantamp Power Switch Group")
+		(date "2024-03-06")
+		(rev "1")
+		(company "RoboWidgets")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Male"
 			(pin_names
